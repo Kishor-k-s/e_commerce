@@ -1,0 +1,122 @@
+[
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "EcoFlow Stainless Steel Water Bottle",
+      "description": "Double-walled, vacuum-insulated bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+      "price": 1599,
+      "category": "Home & Kitchen",
+      "sub_category": "Drinkware",
+      "publish_date": "2025-08-01",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Orion Wireless Earbuds",
+      "description": "Bluetooth 5.3 earbuds with noise cancellation and 30-hour battery life.",
+      "price": 4999,
+      "category": "Electronics",
+      "sub_category": "Audio",
+      "publish_date": "2025-07-15",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Luxe Velvet Throw Blanket",
+      "description": "Ultra-soft velvet throw blanket, perfect for cozy evenings.",
+      "price": 2799,
+      "category": "Home & Living",
+      "sub_category": "Bedding",
+      "publish_date": "2025-06-20",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "TrailMaster Hiking Backpack",
+      "description": "40L water-resistant hiking backpack with multiple compartments.",
+      "price": 6150,
+      "category": "Sports & Outdoors",
+      "sub_category": "Hiking Gear",
+      "publish_date": "2025-05-05",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Nova Ceramic Dinner Set (16 pcs)",
+      "description": "Elegant white dinner set with gold trim for special occasions.",
+      "price": 7299,
+      "category": "Home & Kitchen",
+      "sub_category": "Dinnerware",
+      "publish_date": "2025-04-10",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Pulse Pro Smartwatch",
+      "description": "Fitness tracking smartwatch with heart rate monitor and GPS.",
+      "price": 10900,
+      "category": "Electronics",
+      "sub_category": "Wearables",
+      "publish_date": "2025-08-05",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Bloom & Bliss Soy Candle Set",
+      "description": "Set of 3 hand-poured soy candles with lavender, vanilla, and citrus scents.",
+      "price": 2499,
+      "category": "Home & Living",
+      "sub_category": "Decor",
+      "publish_date": "2025-03-18",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Apex Gaming Mouse",
+      "description": "Ergonomic RGB gaming mouse with 12 programmable buttons.",
+      "price": 3999,
+      "category": "Electronics",
+      "sub_category": "Gaming Accessories",
+      "publish_date": "2025-02-22",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "FreshBrew Coffee Grinder",
+      "description": "Electric burr grinder with adjustable coarseness settings.",
+      "price": 3750,
+      "category": "Home & Kitchen",
+      "sub_category": "Appliances",
+      "publish_date": "2025-01-12",
+      "image": ""
+    }
+  },
+  {
+    "model": "shop.product",
+    "fields": {
+      "product_name": "Zenith Yoga Mat",
+      "description": "Non-slip, eco-friendly yoga mat with carrying strap.",
+      "price": 1799,
+      "category": "Sports & Outdoors",
+      "sub_category": "Fitness",
+      "publish_date": "2025-06-28",
+      "image": ""
+    }
+  }
+]
